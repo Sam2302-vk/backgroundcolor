@@ -1,0 +1,28 @@
+.task{
+    border: 2px solid black;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: aliceblue;
+}
+button{
+    text-align: center;
+}
+h2{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
